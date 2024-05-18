@@ -1,4 +1,4 @@
-name: H Filter
+name: HFilter
 
 on: [push, pull_request]
 
