@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: HFilter
+Version: 0.1.0
+Summary: A package for filtering time series, "Why You Should Never Use the Hodrick-Prescott Filter"
+Author: S. Yanki Kalfa
+Author-email: skalfa@ucsd.edu

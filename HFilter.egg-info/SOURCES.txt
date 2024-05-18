@@ -1,0 +1,13 @@
+MANIFEST.in
+README.md
+setup.py
+HFilter.egg-info/PKG-INFO
+HFilter.egg-info/SOURCES.txt
+HFilter.egg-info/dependency_links.txt
+HFilter.egg-info/requires.txt
+HFilter.egg-info/top_level.txt
+hf_filter/__init__.py
+hf_filter/filter.py
+hf_filter/ols.py
+tests/__init__.py
+tests/test_hf_filter.py
